@@ -30,5 +30,5 @@ This Shopify app injects a dynamic survey form into the Cart Page, enabling stor
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/shopify-cart-survey-app.git
-cd shopify-cart-survey-app
+git clone  https://github.com/NishantDixit1/Assignment-SDEIntern.git
+cd project
